@@ -117,7 +117,7 @@ Converts board states into tensor formats suitable for machine learning models, 
 Provides a minimalistic interface to interact with the chess engine. The interaction is **command-line based**, allowing users to input moves and receive game feedback directly through the terminal.
 
 
-# Neuro-Symbolic AI for Visual Question Answering (VQA) on the Sort-of-CLEVR Dataset
+# Neuro-Symbolic AI for Visual Question Answering
 
 This repository implements a **Neuro-Symbolic AI (NSAI)** approach for **Visual Question Answering (VQA)** on the **Sort-of-CLEVR** dataset. By combining deep learning's pattern recognition abilities with symbolic reasoning methods like program synthesis, this approach achieves **over 99% accuracy** on the dataset.
 
