@@ -22,8 +22,7 @@ This repository hosts implementations for AI-based projects, including **Chess A
    - [Overview](#overview)
    - [Key Features](#key-features)
    - [Requirements](#requirements)
-   - [Installation](#installation-1)
-     
+   - [Installation](#installation-1)  
 3. [References](#references)
 
 ---
