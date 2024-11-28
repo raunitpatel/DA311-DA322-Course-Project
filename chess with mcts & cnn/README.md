@@ -1,22 +1,4 @@
-# Chess AI Repository
-## Project Members
-- Himanshu Singhal: 220150004
-- Raunit Patel : 220150015
-- Rishita Agarwal: 220150016
-- Arushi Kumar: 220150032
-This repository is designed to simulate and experiment with chess-based Artificial Intelligence algorithms, providing implementations for techniques like **Minimax**, **Monte Carlo Tree Search (MCTS)**, and **Convolutional Neural Networks (CNN)**. It also includes a custom hash table and tensor conversion mechanisms for optimized gameplay and data processing.
-
----
-
-## Table of Contents
-
-1. [Features](#features)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Folder Structure](#folder-structure)
-5. [Detailed Descriptions](#detailed-descriptions)
-
----
+# Chess AI with MCTS & CNN
 
 ## Features
 
