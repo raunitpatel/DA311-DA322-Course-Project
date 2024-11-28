@@ -18,13 +18,13 @@ This repository hosts implementations for AI-based projects, including **Chess A
    - [Usage](#usage)
    - [Folder Structure](#folder-structure)
    - [Detailed Descriptions](#detailed-descriptions)
-   - [References](#refernces)
 2. [Neuro-Symbolic AI for Visual Question Answering](#neuro-symbolic-ai-for-visual-question-answering)
    - [Overview](#overview)
    - [Key Features](#key-features)
    - [Requirements](#requirements)
    - [Installation](#installation-1)
-   - [References](#references)
+     
+3. [References](#references)
 
 ---
 
@@ -117,8 +117,6 @@ Converts board states into tensor formats suitable for machine learning models, 
 ### User Interface
 Provides a minimalistic interface to interact with the chess engine. The interaction is **command-line based**, allowing users to input moves and receive game feedback directly through the terminal.
 
-## References
-- [MCTS, Neural Networks, & Chess](https://uploads-ssl.webflow.com/5f25beae0311fc861c01c058/61783196f177694aaa30111a_Monte_Carlo_Tree_Search_Neural_Networks_Chess.pdf)
 
 
 # Neuro-Symbolic AI for Visual Question Answering
@@ -157,7 +155,8 @@ To install the necessary dependencies, run the following command:
 pip install torch<=1.7.0 torchtext<=0.8.0 torchvision<=0.8.0 opencv-python dlib scikit-learn pandas numpy
 ```
 
-## References
+# References
+- [MCTS, Neural Networks, & Chess](https://uploads-ssl.webflow.com/5f25beae0311fc861c01c058/61783196f177694aaa30111a_Monte_Carlo_Tree_Search__Neural_Networks____Chess.pdf)
 - [Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding](https://arxiv.org/abs/1810.02338)
 - [The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision](https://arxiv.org/abs/1904.12584)
 - [Seq2Seq Transformer](https://github.com/aladdinpersson/Machine-Learning-Collection/blob/master/ML/Pytorch/more_advanced/seq2seq_transformer/seq2seq_transformer.py)
