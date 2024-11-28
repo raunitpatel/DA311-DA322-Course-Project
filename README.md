@@ -18,6 +18,7 @@ This repository hosts implementations for AI-based projects, including **Chess A
    - [Usage](#usage)
    - [Folder Structure](#folder-structure)
    - [Detailed Descriptions](#detailed-descriptions)
+   - [References](#refernces)
 2. [Neuro-Symbolic AI for Visual Question Answering](#neuro-symbolic-ai-for-visual-question-answering)
    - [Overview](#overview)
    - [Key Features](#key-features)
@@ -115,6 +116,9 @@ Converts board states into tensor formats suitable for machine learning models, 
 
 ### User Interface
 Provides a minimalistic interface to interact with the chess engine. The interaction is **command-line based**, allowing users to input moves and receive game feedback directly through the terminal.
+
+## References
+- [MCTS, Neural Networks, & Chess](https://uploads-ssl.webflow.com/5f25beae0311fc861c01c058/61783196f177694aaa30111a_Monte_Carlo_Tree_Search_Neural_Networks_Chess.pdf)
 
 
 # Neuro-Symbolic AI for Visual Question Answering
